@@ -1,6 +1,6 @@
-const express = require('express');
-const cors = require('cors');
-const bodyParser = require('body-parser');
+import express from 'express';
+import cors from 'cors';
+import bodyParser from 'body-parser';
 
 const app = express();
 
@@ -32,4 +32,4 @@ app.post('/api/generate', (req, res) => {
     res.json(response);
 });
 
-module.exports = app;
+export default app;

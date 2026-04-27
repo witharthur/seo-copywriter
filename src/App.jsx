@@ -23,7 +23,7 @@ function App() {
       setResult(data);
     } catch (error) {
       console.error('Error:', error);
-      alert('Failed to connect to backend. Make sure the server is running on port 3001.');
+      alert('Failed to generate SEO content. Please check your connection or try again later.');
     } finally {
       setLoading(false);
     }
