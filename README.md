@@ -1,8 +1,8 @@
-# SEO Copywriter Pro 🚀
+# SEO Copywriter Pro 
 
 A premium, full-stack application for generating high-conversion, SEO-optimized content. This project leverages a React-based frontend with a modern glassmorphism UI and a Node.js/Express backend to deliver structured SEO data for any product or category.
 
-## ✨ Features
+##  Features
 
 - **Modern Glassmorphism UI**: A sleek, dark-mode interface with vibrant gradients and smooth micro-animations.
 - **Structured SEO Generation**: Generates titles, meta descriptions, H1 tags, body content, and key feature bullets.
@@ -10,7 +10,7 @@ A premium, full-stack application for generating high-conversion, SEO-optimized 
 - **Real-Time API Integration**: Seamless communication between the React frontend and Express backend.
 - **Responsive Design**: Optimized for both desktop and mobile workflows.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React**: Component-based UI logic.
@@ -23,7 +23,7 @@ A premium, full-stack application for generating high-conversion, SEO-optimized 
 - **Express**: Fast, unopinionated web framework.
 - **CORS & Body-Parser**: Middleware for secure and efficient API handling.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 seo-generator/
@@ -41,7 +41,7 @@ seo-generator/
 └── README.md              # Project documentation
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16 or higher recommended)
@@ -81,17 +81,11 @@ You need to run both the backend and the frontend simultaneously.
    ```
    The application will be available at `http://localhost:5173`.
 
-## 📖 Usage
+##  Usage
 
 1. Open the application in your browser.
 2. Enter the **Product Name**, **Category**, and relevant **Keywords** (separated by commas).
 3. Click **Generate SEO Content**.
 4. The application will simulate an AI processing state and display the optimized SEO results in the right-hand panel.
 
-## 📸 Preview
 
-![SEO Generator Results](https://raw.githubusercontent.com/placeholder-path/to/screenshot.png)
-*(Note: Refer to the conversation artifacts for the actual functional screenshot)*
-
----
-Built with ❤️ by Antigravity
